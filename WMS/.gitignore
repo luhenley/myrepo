@@ -1,0 +1,8 @@
+## .gitignore
+
+# .gitignore for maven
+target/
+
+# IDE support file
+.idea
+WMS.iml
